@@ -1,4 +1,4 @@
-# 🌐 A Neural Network for Forward and Inverse Nonlinear Fourier Transforms
+#  A Neural Network for Forward and Inverse Nonlinear Fourier Transforms
 **پیاده‌سازی و ترجمه مقاله: شبکه‌ای عصبی برای تبدیل فوریه غیرخطی پیشرو و معکوس در مخابرات فیبر نوری**  
 - **نویسندگان مقاله:** Wen Qi Zhang, Terence H. Chan, and Shahraam Afshar V.
 
